@@ -1,5 +1,4 @@
-# Sergejs
-Php files
+
 <?php
 
 require 'vendor/autoload.php';
